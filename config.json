@@ -1,0 +1,19 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/techs",
+        "fb_url":"https://facebook.com/techs",
+        "tw_url":"https://twitter.com/techs",
+        "gh_url":"https://github.com/techs",
+        "gmail-user":"chittithe13@gmail.com",
+        "gmail-password":"chittitherobo2.0",
+        "about_text": "Hi my name is Mayank and I am a programmer",
+        "no_of_posts": 2,
+        "login_image":"login.jpg",
+        "admin_user":"mayank",
+        "admin_password": "iamironman",
+        "upload_location": "F:\\Flask"
+    }
+}
